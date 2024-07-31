@@ -1,3 +1,3 @@
 # portfolio
 
-[Portfolio link](https://jeremyugo.github.io/portfolio/index.html)
+[Portfolio link](https://jeremyugo.github.io/)
